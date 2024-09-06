@@ -2,7 +2,7 @@
 int main() {
   double a, b;
   printf("Enter a: ");
-  scanf("%lf", &a);
+  scanf("%d", &a);
   printf("Enter b: ");
   scanf("%lf", &b);
   a=a*b;
